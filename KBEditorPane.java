@@ -2,9 +2,6 @@
 Program Name:  Multi-Document Text Editor
 Developer:  Kevin Anthony John Blighe
 Date:  19th December 2002
-Course:  Ft 228
-Year:  Three
-Subject:  Windows Programming
 */
 
 import java.awt.event.* ;
