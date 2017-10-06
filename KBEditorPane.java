@@ -663,9 +663,6 @@ public class KBEditorPane extends JFrame implements ListSelectionListener, Actio
 			JOptionPane.showMessageDialog( this,	"Program Name:  Multi-Document Text Editor\n"
 								+"Developer:  Kevin Anthony John Blighe\n"
 								+"Date:  19th December 2002\n"
-								+"Course:  Ft 228\n"
-								+"Year:  Three\n"
-								+"Subject:  Windows Programming\n"
 								+"Description: Open, edit, create, and save text documents") ;
 		}
 	}
