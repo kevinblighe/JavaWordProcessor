@@ -6,4 +6,3 @@
 Execute the program with:
 <br>
 <code>java MultiDocuments</code>
-<hr>
