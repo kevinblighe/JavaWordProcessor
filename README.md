@@ -6,3 +6,5 @@
 Execute the program with:
 <br>
 <code>java MultiDocuments</code>
+<h2>Credits</h2>
+Kevin Blighe; Dublin Institute of Technology
