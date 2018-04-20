@@ -7,4 +7,7 @@ Execute the program with:
 <br>
 <code>java MultiDocuments</code>
 <h2>Credits</h2>
-Kevin Blighe; Dublin Institute of Technology
+<ul>
+  <li>Kevin Blighe (Dublin Insitute of Technology))</li>
+  <li>Dublin Institute of Technology School of Computing</li>
+</ul>
