@@ -8,6 +8,6 @@ Execute the program with:
 <code>java MultiDocuments</code>
 <h2>Credits</h2>
 <ul>
-  <li>Kevin Blighe (Dublin Insitute of Technology))</li>
+  <li>Kevin Blighe (Dublin Insitute of Technology)</li>
   <li>Dublin Institute of Technology School of Computing</li>
 </ul>
